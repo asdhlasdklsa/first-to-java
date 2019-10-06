@@ -1,5 +1,3 @@
-package 学习成绩;
-
 public class 判断质数 {
 	public static void main(String[] args) {
 		int count = 0;
